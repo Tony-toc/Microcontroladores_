@@ -5,4 +5,5 @@
 - Martagon Carrillo Uriel Isai
 - Eslava Colin César Barush
 - De los Santos Sámano Irvin Giovanni
+- Corona BUendia Luis Antonio 
   
